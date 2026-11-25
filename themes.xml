@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SOlauncher" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/emerald_primary</item>
+        <item name="colorSecondary">@color/gold_accent</item>
+        <item name="android:windowBackground">@color/bg_forest</item>
+        <item name="android:statusBarColor">@color/bg_forest</item>
+    </style>
+</resources>

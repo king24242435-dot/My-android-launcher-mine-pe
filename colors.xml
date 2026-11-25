@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_forest">#0B1612</color>
+    <color name="card_forest">#13261F</color>
+    <color name="emerald_primary">#2ECC71</color>
+    <color name="emerald_dark">#1E8449</color>
+    <color name="gold_accent">#F1C40F</color>
+    <color name="text_primary">#ECFDF5</color>
+    <color name="text_secondary">#94B8A8</color>
+</resources>
